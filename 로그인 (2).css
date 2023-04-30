@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    background-color: rgb(59, 58, 87);
+}
+
+div{
+    margin-top: 100px;
+    width: 250px;
+    height: 300px;
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+
+#ID{
+    width: 200px;
+    height: 30PX;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+#PW{
+    width: 200px;
+    height: 30px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+#LoginButton{
+    width: 210px;
+    height: 30PX;
+    background-color: rgb(232, 79, 79);
+    color: aliceblue;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+#SignUpButton{
+    width: 210px;
+    height: 30PX;
+    background-color: rgb(232, 79, 79);
+    color: aliceblue;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+h2{
+    color: grey;
+}
